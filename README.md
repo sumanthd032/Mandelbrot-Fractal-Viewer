@@ -22,7 +22,7 @@ You can interactively explore the fractal by changing parameters such as resolut
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/sumanthd032/mandelbrot-fractal.git](https://github.com/sumanthd032/mandelbrot-fractal.git)
+    git clone https://github.com/sumanthd032/mandelbrot-fractal-viewer.git
     cd mandelbrot-fractal-numpy
     ```
 
